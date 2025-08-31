@@ -5,7 +5,9 @@ DonarX es una plataforma descentralizada que transforma la forma de donar median
 Estructura:
 
 contracts/ — Contratos inteligentes (Solidity)
+
 scripts/ — Scripts de despliegue y siembra
+
 README.md — Este archivo
 
 Descripción
