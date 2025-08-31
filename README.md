@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# PROYECT DONARX ETH JAGUAR
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Enlace al smart contract desplegado en Arbitrum Sepolia: https://sepolia.arbiscan.io/address/0xcCc3675462866d8E8D36aBd02E5a4a1c520737aa
+Enlace a demo grabado: https://youtu.be/YrZuQkaHV9w
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
